@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameMaster.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="127" Column="18" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tracker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraShake.cs" Line="1" Column="1" />
+      <File FileName="Assets\Target.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="31" Column="2" />
+      <File FileName="Assets\Scripts\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Magnet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Splash.cs" Line="1" Column="1" />
+      <File FileName="Assets\WallBall\Scripts\gemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="104" Column="216" />
+      <File FileName="Assets\Script\PlayAnimOnKeyUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayAnim.cs" Line="48" Column="37" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" Line="1" Column="1" />
+      <File FileName="Assets\OrbitObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\OrbitObject2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
